@@ -10,6 +10,8 @@
     color: white;
     padding: 10px 20px;
     justify-content: space-between;
+    height: 50px;
+    
 }
 .left_navbar{
     display: flex;
